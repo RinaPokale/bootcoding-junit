@@ -12,7 +12,6 @@ public class ArraySumTest {
         int actualSum = arraySum.getSum(nums);
         int expectedSum = 15;
         assertEquals(expectedSum,actualSum);
-
     }
 
     @Test

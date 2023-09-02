@@ -6,5 +6,6 @@ public class ArraySum {
             sum+=n;
         }
         return sum;
+
     }
 }
