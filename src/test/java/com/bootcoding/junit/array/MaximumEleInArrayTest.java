@@ -12,7 +12,6 @@ public class MaximumEleInArrayTest {
         int actualMax = maximumEleInArray.getMaxEle(num);
         int expectedMax = 30;
         assertEquals(expectedMax, actualMax);
-
     }
 
     @Test

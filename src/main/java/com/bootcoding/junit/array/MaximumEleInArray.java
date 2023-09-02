@@ -6,6 +6,7 @@ public class MaximumEleInArray {
         for(int n: num){
             max = Math.max(max, n);
         }
+
         return max;
     }
 }
